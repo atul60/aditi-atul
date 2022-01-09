@@ -40,7 +40,7 @@ function playSound(letter) {
       var audio = new Audio("sounds/tom-3.mp3");
       audio.play();
       break;
-    case "a.":
+    case "a-":
       var audio = new Audio("sounds/tom-4.mp3");
       audio.play();
       break;
